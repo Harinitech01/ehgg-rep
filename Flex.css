@@ -1,0 +1,26 @@
+.container{
+    background-color: red;
+    border:2px solid black;
+    height: 250px;
+}
+.one{
+    background-color: yellow;
+    border:2px solid black;
+    height: 120px;
+
+}
+.two{
+    background-color: blue;
+    border:2px solid black;
+    height: 120px;
+
+}
+.three{
+    background-color: purple;
+    border:2px solid black;
+    height: 120px;
+
+}
+.nav{
+    justify-content: flex-end;
+}
